@@ -13,4 +13,6 @@ class mahasiswa {
         }
 };
 
-
+int main () {
+    
+}
